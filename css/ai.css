@@ -1,0 +1,26 @@
+.content{
+ 	margin-left:25px;
+ 	margin-right:25px;
+  margin-top:0px;
+ }
+ h1{
+  font-size:270px;
+  text-align:center;
+ }
+ body{
+ 	color:green;
+ 	font-weight:bold;
+ 	margin-top:0px;
+
+ }
+ h1,h3{
+ 	color:#000000;
+  text-align:center;
+ }
+ @media(min-width:720px)
+{
+ .aih4{
+  text-align:center;
+
+ }
+}
